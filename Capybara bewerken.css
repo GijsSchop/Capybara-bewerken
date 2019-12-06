@@ -56,7 +56,8 @@ font-family: sans-serif;
 h1 {
   margin: 10px 0 40px;
   padding-bottom: 10px;
-  color: #6f717d;
+  color: gray;
+  border-bottom: 2px solid gray;
 }
 
 h2 {
